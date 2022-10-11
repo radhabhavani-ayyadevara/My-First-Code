@@ -1,4 +1,4 @@
 if (a>b):
-   print (a)
+   print ("largest number is :".format(a))
 else:
-   print (b)
+   print ("largest number is :".format(b))
